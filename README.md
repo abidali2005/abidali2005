@@ -1,58 +1,55 @@
-👋 Hi there, I'm Abid Ali Atif
+# 👋 Hi, I'm Abid Ali Atif  
 
-Welcome to my GitHub! I'm a passionate **MERN Stack Developer** dedicated to building responsive, scalable, and intuitive web applications. Whether it's crafting user-friendly frontends with React or designing efficient backend APIs with Node.js and Express, I thrive on solving real-world problems with clean, maintainable code.
+💡 **Data Scientist & Machine Learning Enthusiast | Data Visualization Specialist | Problem Solver**  
 
-💻 I enjoy turning ideas into full-fledged web solutions, and I'm currently expanding my knowledge in **software architecture** and **computer security** to build even better systems.
-
----
-
-🛠️ Tech Stack & Skills
-
-👨‍💻 Programming Languages
-- JavaScript (ES6+)
-- TypeScript (Basics)
-- HTML5 & CSS3
-
-⚙️ Frontend
-- React.js (Hooks, Context API, Router)
-- Next.js
-- Tailwind CSS, Bootstrap
-- Responsive Design & UI/UX
-
-🖥 Backend
-- Node.js
-- Express.js
-- RESTful APIs
-- Authentication (JWT, OAuth)
-
-🗃️ Database
-- MongoDB
-- Mongoose
-
-🔧 Tools & Technologies
-- Git & GitHub
-- Postman
-- VS Code
-- Vercel / Netlify
-- Firebase (basics)
-
-🚀 Currently Exploring
-- Software Architecture Patterns
-- Data Structures & Algorithms (DSA)
-- Security Principles (Access Control, Secure APIs)
+I’m passionate about turning raw data into actionable insights and building **predictive models** that solve real-world problems.  
+From **exploratory data analysis** to **interactive dashboards** and **model deployment**, I thrive on combining **statistics, algorithms, and clean code** to deliver data-driven solutions.  
 
 ---
 
-📂 Projects Highlight
+## 🛠 Tech Stack & Skills  
 
-- **Rank Elevate** – A dynamic SEO platform with Admin, Publisher, and Advertiser panels.
-- **Restaurant Management System** – Built with PHP, Laravel, React – a full-stack app for managing orders, reservations, and staff.
-- Many more responsive websites, dashboards, and interactive UI components built using the MERN stack.
+### 📊 Data Science & Machine Learning  
+- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Machine Learning:** Scikit-learn, XGBoost, TensorFlow (basics)  
+- **Data Handling:** Data Cleaning, Feature Engineering, EDA, Data Wrangling  
+- **Visualization & BI:** Power BI, Matplotlib, Seaborn, Plotly  
+- **ML Workflow:** Model Training, Hyperparameter Tuning, Model Evaluation, Deployment with Flask  
+- **Databases:** SQL, MongoDB  
+
+### 💻 Web Development for DS Projects  
+- **Frontend:** React.js, Tailwind CSS, Bootstrap  
+- **Backend:** Flask, REST APIs  
+- **Integration:** Flask + React for ML model deployment  
+
+### 🔧 Tools & Technologies  
+- Git & GitHub | Postman | VS Code | Vercel / Netlify | Jupyter Notebook  
 
 ---
 
-📬 Contact Me
+## 📂 Featured Projects  
 
-📧 Email:abidaliofficial321@gmail.com
+- **✈ Airline Passenger Satisfaction Prediction** – Built and evaluated ML models to classify passenger satisfaction; deployed via Flask API with interactive React UI.  
+- **📊 Retail Sales Analysis Dashboard** – Power BI dashboard visualizing trends, forecasting sales, and tracking KPIs.  
+- **🏥 Patient Health Risk Prediction** – Machine learning model predicting patient health risk categories using scikit-learn.  
+- **💬 Sentiment Analysis on Social Media Data** – NLP pipeline for classifying sentiments; visualized results with Power BI.  
+- **📈 Stock Price Prediction** – Time series forecasting using Prophet and LSTM models, deployed with Flask.  
 
-Let's build something amazing together!
+---
+
+## 🌱 Currently Learning  
+- Advanced Machine Learning & Deep Learning Techniques  
+- End-to-End MLOps with Docker & CI/CD  
+- Cloud Deployment (Azure / AWS for ML models)  
+- Advanced Power BI (DAX, Data Modeling)  
+
+---
+
+## 📬 Let’s Connect  
+📧 Email: **abidaliofficial321@gmail.com**  
+💼 LinkedIn: **[Abid Ali](https://www.linkedin.com/in/abid-ali-7a3022365/)**  
+🐙 GitHub: **[AbidAliAtif](https://github.com/abidali2005/abidali2005)**  
+
+---
+
+💬 *"Transforming data into intelligence — one project at a time."*  
