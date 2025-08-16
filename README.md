@@ -1,55 +1,46 @@
-# 👋 Hi, I'm Abid Ali Atif  
+# Welcome to My GitHub Profile! 👋
 
-💡 **Data Scientist & Machine Learning Enthusiast | Data Visualization Specialist | Problem Solver**  
-
-I’m passionate about turning raw data into actionable insights and building **predictive models** that solve real-world problems.  
-From **exploratory data analysis** to **interactive dashboards** and **model deployment**, I thrive on combining **statistics, algorithms, and clean code** to deliver data-driven solutions.  
+Hi there! I'm **[Abid Ali]**, a passionate developer, AI enthusiast, and cloud practitioner.  
+I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
 
 ---
 
-## 🛠 Tech Stack & Skills  
+## 🛠 Tech Stack
 
-### 📊 Data Science & Machine Learning  
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Machine Learning:** Scikit-learn, XGBoost, TensorFlow (basics)  
-- **Data Handling:** Data Cleaning, Feature Engineering, EDA, Data Wrangling  
-- **Visualization & BI:** Power BI, Matplotlib, Seaborn, Plotly  
-- **ML Workflow:** Model Training, Hyperparameter Tuning, Model Evaluation, Deployment with Flask  
-- **Databases:** SQL, MongoDB  
-
-### 💻 Web Development for DS Projects  
-- **Frontend:** React.js, Tailwind CSS, Bootstrap  
-- **Backend:** Flask, REST APIs  
-- **Integration:** Flask + React for ML model deployment  
-
-### 🔧 Tools & Technologies  
-- Git & GitHub | Postman | VS Code | Vercel / Netlify | Jupyter Notebook  
+### 💻 Programming & Core Concepts
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
 ---
 
-## 📂 Featured Projects  
-
-- **✈ Airline Passenger Satisfaction Prediction** – Built and evaluated ML models to classify passenger satisfaction; deployed via Flask API with interactive React UI.  
-- **📊 Retail Sales Analysis Dashboard** – Power BI dashboard visualizing trends, forecasting sales, and tracking KPIs.  
-- **🏥 Patient Health Risk Prediction** – Machine learning model predicting patient health risk categories using scikit-learn.  
-- **💬 Sentiment Analysis on Social Media Data** – NLP pipeline for classifying sentiments; visualized results with Power BI.  
-- **📈 Stock Price Prediction** – Time series forecasting using Prophet and LSTM models, deployed with Flask.  
-
----
-
-## 🌱 Currently Learning  
-- Advanced Machine Learning & Deep Learning Techniques  
-- End-to-End MLOps with Docker & CI/CD  
-- Cloud Deployment (Azure / AWS for ML models)  
-- Advanced Power BI (DAX, Data Modeling)  
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
 ---
 
-## 📬 Let’s Connect  
-📧 Email: **abidaliofficial321@gmail.com**  
-💼 LinkedIn: **[Abid Ali](https://www.linkedin.com/in/abid-ali-7a3022365/)**  
-🐙 GitHub: **[AbidAliAtif](https://github.com/abidali2005/abidali2005)**  
+### 🤖 AI & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
 ---
 
-💬 *"Transforming data into intelligence — one project at a time."*  
+### 🦙 Large Language Models (LLMs)
+<p align="left">
+  <img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logoColor=white" />
+</p>
