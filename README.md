@@ -4,7 +4,7 @@
 
 ### 🤖 AI & ML Engineer · 🌐 Freelance Developer · 🎓 Software Engineering Student
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI+Applications+%F0%9F%A4%96;RAG+Pipelines+%7C+NLP+%7C+Speech+AI;Turning+Ideas+into+Intelligent+Apps+%F0%9F%9A%80;Open+to+AI%2FML+Internships+in+Jobs!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI+Applications+%F0%9F%A4%96;RAG+Pipelines+%7C+NLP+%7C+Speech+AI;Turning+Ideas+into+Intelligent+Apps+%F0%9F%9A%80;Open+to+AI%2FML+Internships+and+Jobs!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=abidali2005&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
 
