@@ -4,7 +4,7 @@
 
 ### 🤖 AI & ML Engineer · 🌐 Freelance Developer · 🎓 Software Engineering Student
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI+Applications+%F0%9F%A4%96;RAG+Pipelines+%7C+NLP+%7C+Speech+AI;Turning+Ideas+into+Intelligent+Apps+%F0%9F%9A%80;Open+to+AI%2FML+Internships+in+Lahore!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI+Applications+%F0%9F%A4%96;RAG+Pipelines+%7C+NLP+%7C+Speech+AI;Turning+Ideas+into+Intelligent+Apps+%F0%9F%9A%80;Open+to+AI%2FML+Internships+in+Jobs!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=abidali2005&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
 
@@ -114,7 +114,6 @@ current_focus = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abid_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abid-ali-7a3022365/)
 [![GitHub](https://img.shields.io/badge/GitHub-abidali2005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abidali2005/abidali2005)
-[![Fiverr](https://img.shields.io/badge/Fiverr-heavyprogrammer-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/heavyprogrammer)
 [![Email](https://img.shields.io/badge/Email-abidaliofficial321@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abidaliofficial321@gmail.com)
 
 </div>
